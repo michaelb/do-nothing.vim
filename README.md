@@ -7,7 +7,7 @@ This plugin doesn't do anything.
 
 ## Installation
 
-The use of a package manager is unecessary, but since you probably use one anyway, here's an example with vim-plug:
+The use of a package manager is unnecessary, but since you probably use one anyway, here's an example with vim-plug:
 
 ```
 Plug 'michaelb/do-nothing.vim'
