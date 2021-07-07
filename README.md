@@ -9,8 +9,14 @@ This plugin doesn't do anything.
 
 The use of a package manager is unnecessary, but since you probably use one anyway, here's an example with vim-plug:
 
+### Vimscript
 ```
 Plug 'michaelb/do-nothing.vim'
+```
+
+### Lua
+```
+Plug 'michaelb/do-nothing.vim', { 'branch': 'lua'}
 ```
 
 
@@ -29,5 +35,5 @@ Plug 'michaelb/do-nothing.vim'
 
 ## Motivation:
 
- This plugin is useless, HOWEVER: as far as I know, it hasn't been done before. Most art is useless per se, 
+ This plugin is useless, HOWEVER: as far as I know, it hasn't been done before. Most art is useless per se,
  I wouldn't mind considering this a funny 'artistic' spin on vim plugin meta: if 'Vim plugin artists' are a thing, why not ?
