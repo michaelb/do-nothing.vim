@@ -23,7 +23,7 @@ Plug 'michaelb/do-nothing.vim'
  - Fastest startup time among ALL Vim plugins
  - 100% code coverage
  - Works on any platform, OS, architecture, Vim/Neovim indifferently
- - Very low ressource usage
+ - Very low resource usage
  - No ugly VimL, no badly written Python...: no room for any bug!
  - v1 is already stable and feature-complete
  - Ready to use, no configuration required
