@@ -13,7 +13,7 @@ The use of a package manager is unnecessary, but since you probably use one anyw
 Plug 'michaelb/do-nothing.vim'
 ```
 
-(for neovim users that want better performance, a lua backend is available on the 'lua' branch: `Plug 'michaelb/do-nothing.vim', {'branch' : 'lua'}`  + `require('do-nothing')`. Vim users are NOT second-class citizens and feature parity will be maintained)
+(for Neovim users that want better performance, a lua backend is available on the 'lua' branch: `Plug 'michaelb/do-nothing.vim', {'branch' : 'lua'}`  + `require('do-nothing')`. Vim users are NOT second-class citizens and feature parity will be maintained)
 
 
 ## Usage
@@ -23,7 +23,7 @@ Plug 'michaelb/do-nothing.vim'
  - Fastest startup time among ALL Vim plugins
  - 100% code coverage
  - Works on any platform, OS, architecture, Vim/Neovim indifferently
- - Very low ressource usage
+ - Very low resource usage
  - No ugly VimL, no badly written Python...: no room for any bug!
  - v1 is already stable and feature-complete
  - Ready to use, no configuration required
